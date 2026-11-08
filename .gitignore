@@ -1,0 +1,21 @@
+# Python byte code & cache
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.pytest_cache/
+
+# KDE / Qt / Plasma artifacts
+.directory
+*~
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDEs
+.idea/
+.vscode/
+*.kate-swp

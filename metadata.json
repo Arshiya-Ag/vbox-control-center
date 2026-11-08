@@ -1,0 +1,19 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "dev@fedora.local",
+                "Name": "Senior KDE Plasma Developer"
+            }
+        ],
+        "Category": "Utilities",
+        "Description": "macOS-inspired Tokyo Night VirtualBox Control Center for KDE Plasma 6",
+        "Icon": "virtualbox",
+        "Id": "org.kde.plasma.vboxcontrolcenter",
+        "Name": "VirtualBox Control Center",
+        "Version": "1.0.0",
+        "Website": "https://kde.org"
+    },
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
